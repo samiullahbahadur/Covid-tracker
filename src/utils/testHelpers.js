@@ -6,9 +6,7 @@ import store from '../redux/configureStore';
 const renderWthRedux = (Component) => ({
   ...render(
     <Provider store={store}>
-      <BrowserRouter>
-        {Component}
-      </BrowserRouter>
+      <BrowserRouter>{Component}</BrowserRouter>
     </Provider>,
   ),
   store,

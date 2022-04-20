@@ -1,5 +1,5 @@
-import httpCommon from "../httpCommon";
-import covidActionTypes from "./covideActionTypes";
+import httpCommon from '../httpCommon';
+import covidActionTypes from './covideActionTypes';
 
 export const fetchCovidDataStart = () => ({
   type: covidActionTypes.FETCH_COVID_DATA_START,
@@ -18,7 +18,7 @@ export const covidDataError = (payload) => ({
 export const addCovidDataAsync = () => (dispatch) => {
   dispatch(fetchCovidDataStart());
   httpCommon
-    .get("/summary")
+    .get('/summary')
     .then(({ data }) => {
       const { Countries: countries, Global: global } = data;
       dispatch(addCovidData({ countries, global }));

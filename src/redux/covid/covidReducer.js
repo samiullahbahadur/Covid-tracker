@@ -21,7 +21,9 @@ const covidDataReducer = (state = INITIAL_STATE, { type, payload }) => {
       };
     case covidActionTypes.COVID_DATA_ERROR:
       return {
-        ...state, loading: false, error: payload,
+        ...state,
+        loading: false,
+        error: payload,
       };
     default:
       return state;

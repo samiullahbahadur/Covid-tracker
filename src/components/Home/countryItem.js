@@ -8,7 +8,6 @@ const ItemsCard = ({ id, country, totallConfirmed }) => (
     <div className="country display">
       <h2 className="ea-country">{country.Country}</h2>
       <AiOutlineRightCircle />
-
     </div>
     {totallConfirmed}
   </Link>

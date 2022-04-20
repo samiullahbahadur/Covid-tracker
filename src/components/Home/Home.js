@@ -23,17 +23,16 @@ const Home = () => {
           />
         </div>
         <div className="countries display">
-          {
-             countries.filter((country) => country.Country.match(index)).map((country) => (
-               <ItemsCard
-                 key={country.ID}
-                 id={country.ID}
-                 country={country}
-                 totallConfirmed={numberSeparator(country.TotalConfirmed, ',')}
-               />
-             ))
-            }
-
+          {countries
+            .filter((country) => country.Country.match(index))
+            .map((country) => (
+              <ItemsCard
+                key={country.ID}
+                id={country.ID}
+                country={country}
+                totallConfirmed={numberSeparator(country.TotalConfirmed, ',')}
+              />
+            ))}
         </div>
       </div>
     </BasicLayoutContainer>

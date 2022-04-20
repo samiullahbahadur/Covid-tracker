@@ -7,25 +7,17 @@ import PropTypes from 'prop-types';
 const Navbar = ({ title }) => (
   <nav className="navbar">
     <div className="nav-items">
-      <Link to="/">
-        {title ? <IoIosArrowBack className="arrow" /> : ''}
-      </Link>
+      <Link to="/">{title ? <IoIosArrowBack className="arrow" /> : ''}</Link>
       <h2 className="date">2022</h2>
-      {
-      title
-        ? (
-          <h4 className="header-text">
-            {' '}
-            {title}
-            {' '}
-          </h4>
-        )
-        : (
-          <h4 className="header-text">
-            Countries &apos; s COVID-19 Data
-          </h4>
-        )
-}
+      {title ? (
+        <h4 className="header-text">
+          {' '}
+          {title}
+          {' '}
+        </h4>
+      ) : (
+        <h4 className="header-text">Countries &apos; s COVID-19 Data</h4>
+      )}
     </div>
     <div className="icons">
       <span className="icons-mic">

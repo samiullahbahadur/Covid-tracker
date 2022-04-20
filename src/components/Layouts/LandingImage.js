@@ -8,9 +8,7 @@ const LandingImage = () => {
     <div className="hero-wrapper">
       <div className="hero">
         <div className="content">
-          <h1 className="white">
-            Global data
-          </h1>
+          <h1 className="white">Global data</h1>
           <h4 className="white">
             Total Confirmed :
             {numberSeparator(global.TotalConfirmed, ',')}
