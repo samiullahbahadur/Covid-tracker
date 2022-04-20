@@ -7,7 +7,7 @@ const useCountryData = (id, countries) => {
     if (country) {
       setCountry({
         ...country,
-        flag: `https://countryflagsapi.com/png/${country.CountryCode}`,
+       
       });
     }
   }, [countries]);
