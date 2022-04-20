@@ -1,6 +1,6 @@
 .hero-wrapper {
   height: 40vh;
-
+  background: url(../../../Assets/covid.jpeg);
   background-size: cover;
 }
 
