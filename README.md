@@ -67,10 +67,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Author
 
-👤 **Dagic-zewdu**
+👤 **Samiullah Bahadur**
 
-- [Github](https://github.com/Dagic-zewdu)
-- [LinkedIn](https://www.linkedin.com/in/dagmawi-zewdu-21b835215/)
+- [Github](https://github.com/samiullahbahadur)
+- [LinkedIn](https://www.linkedin.com/in/samiullah-bahadur/)
 
 
 ## 🤝 Contributing
@@ -84,9 +84,4 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Huge Thanks
 
-I give my huge thanks for [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio). For wonderful template on [Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).  
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
