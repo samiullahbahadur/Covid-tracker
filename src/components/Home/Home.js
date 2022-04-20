@@ -6,7 +6,8 @@ import LandingImage from '../Layouts/LandingImage';
 import ItemsCard from './countryItem';
 
 const Home = () => {
- 
+  const [index, setState] = useState('');
+  const { countries } = useSelector((state) => state);
   return (
     <BasicLayoutContainer>
       <LandingImage />
