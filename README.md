@@ -8,13 +8,15 @@
 
 ## Built With
 
-- HTML, CSS, JS
-- Bootstrap, SCSS, React, Redux
+- HTML, CSS, SCSS, JS
+-  React, Redux
+## Presentatin Link
 
+- [Video Demo]()
 
 ## Live Demo
 
-- [Live Demo Link]()
+- [Live Demo Link](https://samiullahbahadur.github.io/Covid-tracker/)
 
 ## Available Scripts
 
