@@ -16,7 +16,7 @@ const Navbar = ({ title }) => (
           {' '}
         </h4>
       ) : (
-        <h4 className="header-text">Countries &apos; s COVID-19 Data</h4>
+        <h4 className="header-text">Countries&apos;s COVID-19 Data</h4>
       )}
     </div>
     <div className="icons">
