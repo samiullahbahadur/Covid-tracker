@@ -1,8 +1,7 @@
-import React from "react";
-import "./App.css";
-import MyComponent from "./MyComponent";
+import './App.css';
+
 function App() {
-  return <MyComponent title="React" />;
+
 }
 
 export default App;
