@@ -1,7 +1,10 @@
-import './App.css';
+import { BrowserRouter } from 'react-router-dom';
+import Router from './route';
 
-function App() {
-
-}
+const App = () => (
+  <BrowserRouter>
+    <Router />
+  </BrowserRouter>
+);
 
 export default App;

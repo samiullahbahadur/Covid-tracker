@@ -8,13 +8,17 @@
 
 ## Built With
 
-- HTML, CSS, JS
-- Bootstrap, SCSS, React, Redux
+- HTML, CSS, SCSS, JS
+-  React, Redux
+## Presentatin Link
 
+- [Video Demo](https://www.loom.com/share/e3fdfcaa2a2842a79baa3b318268fe62)
 
 ## Live Demo
 
-- [Live Demo Link]
+
+- [Live Demo Link](https://samiullahbahadur.github.io/Covid-tracker/)
+
 
 ## Available Scripts
 
@@ -30,7 +34,6 @@ $ git clone git@github.com:damdafayton/group-project-spacehub.git
 $ npm install
 $ npm start
 ````
-- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -38,8 +41,6 @@ You may also see any lint errors in the console.
 ### Launch the test runner in the interactive watch mode
 
 `npm test`
-
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### Build the app for production to the `build` folder
 
@@ -66,6 +67,15 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 
+## Author
+
+👤 **Samiullah Bahadur**
+
+- [Github](https://github.com/samiullahbahadur)
+- [LinkedIn](https://www.linkedin.com/in/samiullah-bahadur/)
+
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -76,5 +86,14 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+
+
+## Huge Thanks
+
+I give my huge thanks for [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio). For wonderful template on [Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).  
+## 📝 License
+
+
 
 
