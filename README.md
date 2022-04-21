@@ -4,7 +4,7 @@
 
 > This is Covid-19 data that shows for each country.You can search your country and know its statistics . 
 
-![screenshot](src/Assets/Screen-Shot.png)
+
 
 ## Built With
 
@@ -16,7 +16,9 @@
 
 ## Live Demo
 
+
 - [Live Demo Link](https://samiullahbahadur.github.io/Covid-tracker/)
+
 
 ## Available Scripts
 
@@ -64,12 +66,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 
+
 ## Author
 
 👤 **Samiullah Bahadur**
 
 - [Github](https://github.com/samiullahbahadur)
 - [LinkedIn](https://www.linkedin.com/in/samiullah-bahadur/)
+
 
 
 ## 🤝 Contributing
@@ -84,10 +88,12 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 
+
 ## Huge Thanks
 
 I give my huge thanks for [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio). For wonderful template on [Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).  
 ## 📝 License
+
 
 
 
