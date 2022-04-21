@@ -12,7 +12,7 @@
 -  React, Redux
 ## Presentatin Link
 
-- [Video Demo]()
+- [Video Demo](https://www.loom.com/share/e3fdfcaa2a2842a79baa3b318268fe62)
 
 ## Live Demo
 
