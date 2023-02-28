@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-- [Live Demo Link](https://samiullahbahadur.github.io/Covid-tracker/)
+- [Live Demo Link](https://bahadur-covidtracker.netlify.app/)
 
 ## Available Scripts
 
